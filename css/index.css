@@ -1,0 +1,38 @@
+body
+
+/* Navigation */
+nav {
+  display: flex;
+  position: fixed;
+  border-bottom: 1px solid black;
+  width: 100%;
+  padding: 20px 30px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.navigation {
+padding: 0 100px 0 0;
+}
+
+
+.nav-links {
+  font-family: Verdana;
+ font-size: 14px;
+ font-weight: bold;
+ padding: 0px 5px;
+ display: inline-block;
+}
+
+.nav-links a {
+  color: #000;
+}
+
+.logo-text {
+  color: MediumAquamarine;
+}
